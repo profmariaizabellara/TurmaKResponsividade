@@ -1,4 +1,4 @@
-.cabecalho__menu{
+.cabecalho__menu {
     display: inline-block;
     width: 24px;
     height: 24px;
@@ -7,17 +7,17 @@
     background-position: center;
 }
 
-.cabecalho{
+.cabecalho {
     background-color: var(--branco);
     justify-content: space-between;
     display: flex;
 }
 
-.container{
+.container {
     display: flex;
     align-items: center;
 }
 
-.container__imagem{
+.container__imagem {
     padding: 1em;
 }
