@@ -9,4 +9,11 @@
 
 .cabecalho{
     background-color: var(--branco);
+    justify-content: space-between;
+    display: flex;
+}
+
+.container{
+    display: flex;
+    align-items: center;
 }
