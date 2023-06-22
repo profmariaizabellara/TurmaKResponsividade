@@ -30,6 +30,6 @@
     position: absolute;
 }
 
-.container__botao:checked~.lista-menu{
+.container__menu:checked~.lista-menu{
     display: block;
 }
