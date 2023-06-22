@@ -28,8 +28,13 @@
     display: none;
     top: 100%;
     position: absolute;
+    width: 60vw;
 }
 
 .container__menu:checked~.lista-menu{
     display: block;
+}
+
+.container__menu{
+    display: none;
 }
