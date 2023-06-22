@@ -11,6 +11,8 @@
     background-color: var(--branco);
     justify-content: space-between;
     display: flex;
+    align-items: center;
+    position: relative;
 }
 
 .container {
@@ -24,6 +26,8 @@
 
 .lista-menu{
     display: none;
+    top: 100%;
+    position: absolute;
 }
 
 .container__menu:checked~.lista-menu{
