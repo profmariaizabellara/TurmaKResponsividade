@@ -39,16 +39,16 @@
     display: none;
 }
 
-.lista-menu__titulo{
+.lista_menu-titulo{
     color: var(--amarelo);
 }
 
-.lista-menu__titulo, .lista-menu__item{
+.lista_menu-titulo, .lista-menu__item{
     padding: 1em;
     background-color: var(--branco);
 }
 
-.lista-menu__link{
+.lista_menu-link{
     background: var(--roxo-degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
