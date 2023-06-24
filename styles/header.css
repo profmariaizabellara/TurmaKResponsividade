@@ -24,31 +24,32 @@
     padding: 1em;
 }
 
-.lista-menu{
+.lista-menu {
     display: none;
     top: 100%;
     position: absolute;
     width: 60vw;
 }
 
-.container__menu:checked~.lista-menu{
+.container__menu:checked~.lista-menu {
     display: block;
 }
 
-.container__menu{
+.container__menu {
     display: none;
 }
 
-.lista_menu-titulo{
+.lista_menu-titulo {
     color: var(--amarelo);
 }
 
-.lista_menu-titulo, .lista_menu-item{
+.lista_menu-titulo,
+.lista_menu-item {
     padding: 1em;
     background-color: var(--branco);
 }
 
-.lista_menu-link{
+.lista_menu-link {
     background: var(--roxo-degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
