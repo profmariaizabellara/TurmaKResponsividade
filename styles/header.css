@@ -41,6 +41,7 @@
 
 .lista_menu-titulo {
     color: var(--amarelo);
+    font-weight: 700;
 }
 
 .lista_menu-titulo,
