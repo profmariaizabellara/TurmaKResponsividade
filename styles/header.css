@@ -51,7 +51,7 @@
 }
 
 .lista_menu-link {
-    background: var(--roxo-degrade);
+    background: var(--roxo);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
