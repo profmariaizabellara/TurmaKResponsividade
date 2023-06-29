@@ -15,7 +15,7 @@
     position: relative;
 }
 
-.container {
+.container /*ushdius*/  {
     display: flex;
     align-items: center;
 }
