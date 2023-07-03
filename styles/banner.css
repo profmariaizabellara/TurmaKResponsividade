@@ -1,4 +1,7 @@
 .banner{
     background-color: var(--roxo);
     color: var(--branco);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
 }
