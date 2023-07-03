@@ -2,7 +2,14 @@
     background-image: var(--gradiente-roxo);
     color: var(--branco);
     text-align: center;
-    font-family: Poppins;
+}
+
+.banner__titulo{
     font-size: 18px;
     font-weight: 700;
+}
+
+.banner__texto{
+    font-size: 16px;
+    font-weight: 500;
 }
