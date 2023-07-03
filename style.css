@@ -7,7 +7,7 @@
     --amarelo: #fecd2f;
     --fonte-principal: “Poppins”;
     --roxo: #440a57;
-    --gradiente-roxo: lineargradient
+    --gradiente-roxo: linear-gradient(#733887, #C75EEB);
 }
 
 body {

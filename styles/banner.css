@@ -1,5 +1,5 @@
 .banner{
-    background-color: var(--roxo);
+    background-image: var(--gradiente-roxo);
     color: var(--branco);
     text-align: center;
     font-family: Poppins;
