@@ -57,6 +57,11 @@
     background-clip: text;
     text-transform: uppercase;
 }
+
+.container__titulo{
+    display: none;
+}
+
 @media screen and (min-width: 1024px){
     .container__titulo{
         font-family: var(--fonte-secundaria);
