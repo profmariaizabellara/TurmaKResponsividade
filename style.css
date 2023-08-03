@@ -8,6 +8,7 @@
     --fonte-principal: “Poppins”;
     --roxo: #440a57;
     --gradiente-roxo: linear-gradient(#733887, #C75EEB);
+    --fonte-secundaria: "Josefin Sans"
 }
 
 body {
