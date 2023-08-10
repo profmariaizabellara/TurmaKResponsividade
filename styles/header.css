@@ -93,9 +93,9 @@
         padding: 0 1em;
         text-transform: uppercase;
     }
-.opções__link{
-    text-decoration: none;
-    color: var(--preto);
+    .opcoes__link{
+        text-decoration: none;
+        color: var(--preto);
 }
 }
 
