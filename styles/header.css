@@ -79,4 +79,12 @@
     .container__favorito{
         display: none;
     }
+
+    .opcoes{
+        display: none;
+        top: 100%;
+        position: absolute;
+        width: 60vw;
+    }
 }
+
