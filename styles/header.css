@@ -103,6 +103,10 @@
         display: block;
         width: auto;
     }
+
+    .opcoes-botao{
+        display: none;
+    }
 }
 
 
