@@ -87,7 +87,10 @@
 
     .opcoes{
         display: flex;
-       justify-content: flex-start;
+    }
+
+    .opcoes__item{
+        padding: 0 1em;
     }
 }
 
