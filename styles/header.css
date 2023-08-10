@@ -83,7 +83,6 @@
     .opcoes{
         display: flex;
         top: 100%;
-        position: absolute;
         width: 60vw;
     }
 }
