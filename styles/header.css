@@ -92,11 +92,17 @@
     .opcoes__item{
         padding: 0 1em;
         text-transform: uppercase;
+
     }
     .opcoes__link{
         text-decoration: none;
         color: var(--preto);
-}
+    }
+
+    .opcoes-botao:checked~.lista-menu {
+        display: block;
+
+    }
 }
 
 
