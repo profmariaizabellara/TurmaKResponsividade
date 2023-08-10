@@ -101,7 +101,7 @@
 
     .opcoes-botao:checked~.lista-menu {
         display: block;
-
+        width: auto;
     }
 }
 
