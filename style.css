@@ -11,7 +11,8 @@
     --fonte-secundaria: "Josefin Sans";
     --preto:#000000;   
 }
-
+@import url(styles/header.css);
+@import url(styles/banner.css); 
 body {
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
