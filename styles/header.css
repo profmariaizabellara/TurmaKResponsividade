@@ -66,6 +66,9 @@
     display: none;
 }
 
+.container__texto{
+    display: none;
+}
 
 @media screen and (min-width: 1024px){
     .container__titulo{
@@ -107,6 +110,11 @@
     .opcoes-botao{
         display: none;
     }
+
+    .container__texto{
+        display: none;
+    }
+    
 }
 
 
@@ -129,8 +137,4 @@
         display: block;
         }
         
-}
-
-.container__texto{
-    display: none;
 }
